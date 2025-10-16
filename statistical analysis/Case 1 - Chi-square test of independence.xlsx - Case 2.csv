@@ -1,0 +1,524 @@
+Respondent,Uniqueness,Purchase Likelihood
+1,Extremely unique,Extremely likely
+2,Extremely unique,Extremely likely
+3,Extremely unique,Extremely likely
+4,Extremely unique,Extremely likely
+5,Extremely unique,Extremely likely
+6,Extremely unique,Extremely likely
+7,Extremely unique,Extremely likely
+8,Extremely unique,Extremely likely
+9,Extremely unique,Extremely likely
+10,Extremely unique,Extremely likely
+11,Extremely unique,Extremely likely
+12,Extremely unique,Extremely likely
+13,Very unique,Extremely likely
+14,Very unique,Extremely likely
+15,Very unique,Extremely likely
+16,Very unique,Extremely likely
+17,Very unique,Extremely likely
+18,Very unique,Extremely likely
+19,Very unique,Extremely likely
+20,Very unique,Extremely likely
+21,Very unique,Extremely likely
+22,Very unique,Extremely likely
+23,Very unique,Extremely likely
+24,Very unique,Extremely likely
+25,Very unique,Extremely likely
+26,Very unique,Extremely likely
+27,Very unique,Extremely likely
+28,Very unique,Extremely likely
+29,Very unique,Extremely likely
+30,Very unique,Extremely likely
+31,Very unique,Extremely likely
+32,Very unique,Extremely likely
+33,Very unique,Extremely likely
+34,Very unique,Extremely likely
+35,Very unique,Extremely likely
+36,Very unique,Extremely likely
+37,Very unique,Extremely likely
+38,Very unique,Extremely likely
+39,Very unique,Extremely likely
+40,Very unique,Extremely likely
+41,Very unique,Extremely likely
+42,Very unique,Extremely likely
+43,Very unique,Extremely likely
+44,Very unique,Extremely likely
+45,Very unique,Extremely likely
+46,Very unique,Extremely likely
+47,Very unique,Extremely likely
+48,Very unique,Extremely likely
+49,Very unique,Extremely likely
+50,Very unique,Extremely likely
+51,Very unique,Extremely likely
+52,Very unique,Extremely likely
+53,Very unique,Extremely likely
+54,Very unique,Extremely likely
+55,Very unique,Extremely likely
+56,Very unique,Extremely likely
+57,Very unique,Extremely likely
+58,Very unique,Extremely likely
+59,Very unique,Extremely likely
+60,Very unique,Extremely likely
+61,Very unique,Extremely likely
+62,Very unique,Extremely likely
+63,Very unique,Extremely likely
+64,Very unique,Extremely likely
+65,Somewhat unique,Extremely likely
+66,Somewhat unique,Extremely likely
+67,Somewhat unique,Extremely likely
+68,Somewhat unique,Extremely likely
+69,Somewhat unique,Extremely likely
+70,Somewhat unique,Extremely likely
+71,Somewhat unique,Extremely likely
+72,Somewhat unique,Extremely likely
+73,Somewhat unique,Extremely likely
+74,Somewhat unique,Extremely likely
+75,Somewhat unique,Extremely likely
+76,Somewhat unique,Extremely likely
+77,Somewhat unique,Extremely likely
+78,Somewhat unique,Extremely likely
+79,Somewhat unique,Extremely likely
+80,Not so unique,Extremely likely
+81,Not so unique,Extremely likely
+82,Not so unique,Extremely likely
+83,Not so unique,Extremely likely
+84,Not so unique,Extremely likely
+85,Not so unique,Extremely likely
+86,Not so unique,Extremely likely
+87,Not at all unique,Extremely likely
+88,Not at all unique,Extremely likely
+89,Not at all unique,Extremely likely
+90,Not at all unique,Extremely likely
+91,Not at all unique,Extremely likely
+92,Extremely unique,Very likely
+93,Extremely unique,Very likely
+94,Extremely unique,Very likely
+95,Extremely unique,Very likely
+96,Extremely unique,Very likely
+97,Extremely unique,Very likely
+98,Extremely unique,Very likely
+99,Extremely unique,Very likely
+100,Extremely unique,Very likely
+101,Extremely unique,Very likely
+102,Extremely unique,Very likely
+103,Extremely unique,Very likely
+104,Extremely unique,Very likely
+105,Extremely unique,Very likely
+106,Extremely unique,Very likely
+107,Extremely unique,Very likely
+108,Extremely unique,Very likely
+109,Extremely unique,Very likely
+110,Extremely unique,Very likely
+111,Extremely unique,Very likely
+112,Extremely unique,Very likely
+113,Extremely unique,Very likely
+114,Extremely unique,Very likely
+115,Extremely unique,Very likely
+116,Extremely unique,Very likely
+117,Very unique,Very likely
+118,Very unique,Very likely
+119,Very unique,Very likely
+120,Very unique,Very likely
+121,Very unique,Very likely
+122,Very unique,Very likely
+123,Very unique,Very likely
+124,Very unique,Very likely
+125,Very unique,Very likely
+126,Very unique,Very likely
+127,Very unique,Very likely
+128,Very unique,Very likely
+129,Very unique,Very likely
+130,Very unique,Very likely
+131,Very unique,Very likely
+132,Very unique,Very likely
+133,Very unique,Very likely
+134,Very unique,Very likely
+135,Very unique,Very likely
+136,Very unique,Very likely
+137,Very unique,Very likely
+138,Very unique,Very likely
+139,Very unique,Very likely
+140,Very unique,Very likely
+141,Very unique,Very likely
+142,Very unique,Very likely
+143,Very unique,Very likely
+144,Very unique,Very likely
+145,Very unique,Very likely
+146,Very unique,Very likely
+147,Very unique,Very likely
+148,Very unique,Very likely
+149,Very unique,Very likely
+150,Very unique,Very likely
+151,Very unique,Very likely
+152,Very unique,Very likely
+153,Very unique,Very likely
+154,Very unique,Very likely
+155,Very unique,Very likely
+156,Very unique,Very likely
+157,Very unique,Very likely
+158,Very unique,Very likely
+159,Very unique,Very likely
+160,Very unique,Very likely
+161,Very unique,Very likely
+162,Very unique,Very likely
+163,Very unique,Very likely
+164,Very unique,Very likely
+165,Very unique,Very likely
+166,Very unique,Very likely
+167,Very unique,Very likely
+168,Very unique,Very likely
+169,Very unique,Very likely
+170,Very unique,Very likely
+171,Very unique,Very likely
+172,Very unique,Very likely
+173,Very unique,Very likely
+174,Very unique,Very likely
+175,Very unique,Very likely
+176,Very unique,Very likely
+177,Very unique,Very likely
+178,Very unique,Very likely
+179,Very unique,Very likely
+180,Very unique,Very likely
+181,Very unique,Very likely
+182,Very unique,Very likely
+183,Very unique,Very likely
+184,Very unique,Very likely
+185,Very unique,Very likely
+186,Very unique,Very likely
+187,Very unique,Very likely
+188,Very unique,Very likely
+189,Very unique,Very likely
+190,Very unique,Very likely
+191,Very unique,Very likely
+192,Very unique,Very likely
+193,Very unique,Very likely
+194,Very unique,Very likely
+195,Very unique,Very likely
+196,Very unique,Very likely
+197,Very unique,Very likely
+198,Very unique,Very likely
+199,Very unique,Very likely
+200,Very unique,Very likely
+201,Very unique,Very likely
+202,Very unique,Very likely
+203,Very unique,Very likely
+204,Very unique,Very likely
+205,Very unique,Very likely
+206,Very unique,Very likely
+207,Very unique,Very likely
+208,Very unique,Very likely
+209,Very unique,Very likely
+210,Very unique,Very likely
+211,Very unique,Very likely
+212,Very unique,Very likely
+213,Very unique,Very likely
+214,Very unique,Very likely
+215,Very unique,Very likely
+216,Very unique,Very likely
+217,Very unique,Very likely
+218,Very unique,Very likely
+219,Very unique,Very likely
+220,Very unique,Very likely
+221,Somewhat unique,Very likely
+222,Somewhat unique,Very likely
+223,Somewhat unique,Very likely
+224,Somewhat unique,Very likely
+225,Somewhat unique,Very likely
+226,Somewhat unique,Very likely
+227,Somewhat unique,Very likely
+228,Somewhat unique,Very likely
+229,Somewhat unique,Very likely
+230,Somewhat unique,Very likely
+231,Somewhat unique,Very likely
+232,Somewhat unique,Very likely
+233,Somewhat unique,Very likely
+234,Somewhat unique,Very likely
+235,Somewhat unique,Very likely
+236,Somewhat unique,Very likely
+237,Somewhat unique,Very likely
+238,Somewhat unique,Very likely
+239,Somewhat unique,Very likely
+240,Somewhat unique,Very likely
+241,Somewhat unique,Very likely
+242,Somewhat unique,Very likely
+243,Somewhat unique,Very likely
+244,Somewhat unique,Very likely
+245,Somewhat unique,Very likely
+246,Somewhat unique,Very likely
+247,Somewhat unique,Very likely
+248,Somewhat unique,Very likely
+249,Not so unique,Very likely
+250,Not so unique,Very likely
+251,Not so unique,Very likely
+252,Not so unique,Very likely
+253,Not so unique,Very likely
+254,Not so unique,Very likely
+255,Not so unique,Very likely
+256,Not so unique,Very likely
+257,Not so unique,Very likely
+258,Not so unique,Very likely
+259,Not so unique,Very likely
+260,Not so unique,Very likely
+261,Not so unique,Very likely
+262,Not so unique,Very likely
+263,Not so unique,Very likely
+264,Not so unique,Very likely
+265,Not at all unique,Very likely
+266,Not at all unique,Very likely
+267,Not at all unique,Very likely
+268,Not at all unique,Very likely
+269,Not at all unique,Very likely
+270,Not at all unique,Very likely
+271,Not at all unique,Very likely
+272,Not at all unique,Very likely
+273,Extremely unique,Somewhat likely
+274,Extremely unique,Somewhat likely
+275,Extremely unique,Somewhat likely
+276,Extremely unique,Somewhat likely
+277,Extremely unique,Somewhat likely
+278,Extremely unique,Somewhat likely
+279,Extremely unique,Somewhat likely
+280,Extremely unique,Somewhat likely
+281,Extremely unique,Somewhat likely
+282,Extremely unique,Somewhat likely
+283,Extremely unique,Somewhat likely
+284,Extremely unique,Somewhat likely
+285,Extremely unique,Somewhat likely
+286,Very unique,Somewhat likely
+287,Very unique,Somewhat likely
+288,Very unique,Somewhat likely
+289,Very unique,Somewhat likely
+290,Very unique,Somewhat likely
+291,Very unique,Somewhat likely
+292,Very unique,Somewhat likely
+293,Very unique,Somewhat likely
+294,Very unique,Somewhat likely
+295,Very unique,Somewhat likely
+296,Very unique,Somewhat likely
+297,Very unique,Somewhat likely
+298,Very unique,Somewhat likely
+299,Very unique,Somewhat likely
+300,Very unique,Somewhat likely
+301,Very unique,Somewhat likely
+302,Very unique,Somewhat likely
+303,Very unique,Somewhat likely
+304,Very unique,Somewhat likely
+305,Very unique,Somewhat likely
+306,Very unique,Somewhat likely
+307,Very unique,Somewhat likely
+308,Very unique,Somewhat likely
+309,Very unique,Somewhat likely
+310,Very unique,Somewhat likely
+311,Very unique,Somewhat likely
+312,Very unique,Somewhat likely
+313,Very unique,Somewhat likely
+314,Very unique,Somewhat likely
+315,Very unique,Somewhat likely
+316,Very unique,Somewhat likely
+317,Very unique,Somewhat likely
+318,Very unique,Somewhat likely
+319,Very unique,Somewhat likely
+320,Very unique,Somewhat likely
+321,Very unique,Somewhat likely
+322,Very unique,Somewhat likely
+323,Very unique,Somewhat likely
+324,Very unique,Somewhat likely
+325,Very unique,Somewhat likely
+326,Very unique,Somewhat likely
+327,Very unique,Somewhat likely
+328,Very unique,Somewhat likely
+329,Very unique,Somewhat likely
+330,Very unique,Somewhat likely
+331,Very unique,Somewhat likely
+332,Very unique,Somewhat likely
+333,Very unique,Somewhat likely
+334,Very unique,Somewhat likely
+335,Very unique,Somewhat likely
+336,Very unique,Somewhat likely
+337,Very unique,Somewhat likely
+338,Very unique,Somewhat likely
+339,Very unique,Somewhat likely
+340,Very unique,Somewhat likely
+341,Very unique,Somewhat likely
+342,Very unique,Somewhat likely
+343,Very unique,Somewhat likely
+344,Very unique,Somewhat likely
+345,Very unique,Somewhat likely
+346,Very unique,Somewhat likely
+347,Very unique,Somewhat likely
+348,Very unique,Somewhat likely
+349,Very unique,Somewhat likely
+350,Somewhat unique,Somewhat likely
+351,Somewhat unique,Somewhat likely
+352,Somewhat unique,Somewhat likely
+353,Somewhat unique,Somewhat likely
+354,Somewhat unique,Somewhat likely
+355,Somewhat unique,Somewhat likely
+356,Somewhat unique,Somewhat likely
+357,Somewhat unique,Somewhat likely
+358,Somewhat unique,Somewhat likely
+359,Somewhat unique,Somewhat likely
+360,Somewhat unique,Somewhat likely
+361,Somewhat unique,Somewhat likely
+362,Somewhat unique,Somewhat likely
+363,Somewhat unique,Somewhat likely
+364,Somewhat unique,Somewhat likely
+365,Somewhat unique,Somewhat likely
+366,Not so unique,Somewhat likely
+367,Not so unique,Somewhat likely
+368,Not so unique,Somewhat likely
+369,Not so unique,Somewhat likely
+370,Not so unique,Somewhat likely
+371,Not so unique,Somewhat likely
+372,Not so unique,Somewhat likely
+373,Not so unique,Somewhat likely
+374,Not at all unique,Somewhat likely
+375,Not at all unique,Somewhat likely
+376,Not at all unique,Somewhat likely
+377,Not at all unique,Somewhat likely
+378,Extremely unique,Not so likely
+379,Extremely unique,Not so likely
+380,Extremely unique,Not so likely
+381,Extremely unique,Not so likely
+382,Extremely unique,Not so likely
+383,Extremely unique,Not so likely
+384,Extremely unique,Not so likely
+385,Extremely unique,Not so likely
+386,Extremely unique,Not so likely
+387,Extremely unique,Not so likely
+388,Very unique,Not so likely
+389,Very unique,Not so likely
+390,Very unique,Not so likely
+391,Very unique,Not so likely
+392,Very unique,Not so likely
+393,Very unique,Not so likely
+394,Very unique,Not so likely
+395,Very unique,Not so likely
+396,Very unique,Not so likely
+397,Very unique,Not so likely
+398,Very unique,Not so likely
+399,Very unique,Not so likely
+400,Very unique,Not so likely
+401,Very unique,Not so likely
+402,Very unique,Not so likely
+403,Very unique,Not so likely
+404,Very unique,Not so likely
+405,Very unique,Not so likely
+406,Very unique,Not so likely
+407,Very unique,Not so likely
+408,Very unique,Not so likely
+409,Very unique,Not so likely
+410,Very unique,Not so likely
+411,Very unique,Not so likely
+412,Very unique,Not so likely
+413,Very unique,Not so likely
+414,Very unique,Not so likely
+415,Very unique,Not so likely
+416,Very unique,Not so likely
+417,Very unique,Not so likely
+418,Somewhat unique,Not so likely
+419,Somewhat unique,Not so likely
+420,Somewhat unique,Not so likely
+421,Somewhat unique,Not so likely
+422,Somewhat unique,Not so likely
+423,Somewhat unique,Not so likely
+424,Somewhat unique,Not so likely
+425,Somewhat unique,Not so likely
+426,Somewhat unique,Not so likely
+427,Somewhat unique,Not so likely
+428,Somewhat unique,Not so likely
+429,Somewhat unique,Not so likely
+430,Somewhat unique,Not so likely
+431,Somewhat unique,Not so likely
+432,Somewhat unique,Not so likely
+433,Not so unique,Not so likely
+434,Not so unique,Not so likely
+435,Not so unique,Not so likely
+436,Not so unique,Not so likely
+437,Not so unique,Not so likely
+438,Not so unique,Not so likely
+439,Not so unique,Not so likely
+440,Not so unique,Not so likely
+441,Not so unique,Not so likely
+442,Not so unique,Not so likely
+443,Not at all unique,Not so likely
+444,Not at all unique,Not so likely
+445,Not at all unique,Not so likely
+446,Not at all unique,Not so likely
+447,Not at all unique,Not so likely
+448,Extremely unique,Not at all likely
+449,Extremely unique,Not at all likely
+450,Extremely unique,Not at all likely
+451,Extremely unique,Not at all likely
+452,Extremely unique,Not at all likely
+453,Extremely unique,Not at all likely
+454,Extremely unique,Not at all likely
+455,Extremely unique,Not at all likely
+456,Extremely unique,Not at all likely
+457,Extremely unique,Not at all likely
+458,Very unique,Not at all likely
+459,Very unique,Not at all likely
+460,Very unique,Not at all likely
+461,Very unique,Not at all likely
+462,Very unique,Not at all likely
+463,Very unique,Not at all likely
+464,Very unique,Not at all likely
+465,Very unique,Not at all likely
+466,Very unique,Not at all likely
+467,Very unique,Not at all likely
+468,Very unique,Not at all likely
+469,Very unique,Not at all likely
+470,Very unique,Not at all likely
+471,Very unique,Not at all likely
+472,Very unique,Not at all likely
+473,Very unique,Not at all likely
+474,Very unique,Not at all likely
+475,Very unique,Not at all likely
+476,Very unique,Not at all likely
+477,Very unique,Not at all likely
+478,Very unique,Not at all likely
+479,Very unique,Not at all likely
+480,Very unique,Not at all likely
+481,Very unique,Not at all likely
+482,Very unique,Not at all likely
+483,Very unique,Not at all likely
+484,Very unique,Not at all likely
+485,Very unique,Not at all likely
+486,Very unique,Not at all likely
+487,Very unique,Not at all likely
+488,Somewhat unique,Not at all likely
+489,Somewhat unique,Not at all likely
+490,Somewhat unique,Not at all likely
+491,Somewhat unique,Not at all likely
+492,Somewhat unique,Not at all likely
+493,Somewhat unique,Not at all likely
+494,Somewhat unique,Not at all likely
+495,Somewhat unique,Not at all likely
+496,Somewhat unique,Not at all likely
+497,Somewhat unique,Not at all likely
+498,Somewhat unique,Not at all likely
+499,Somewhat unique,Not at all likely
+500,Somewhat unique,Not at all likely
+501,Somewhat unique,Not at all likely
+502,Somewhat unique,Not at all likely
+503,Somewhat unique,Not at all likely
+504,Not so unique,Not at all likely
+505,Not so unique,Not at all likely
+506,Not so unique,Not at all likely
+507,Not so unique,Not at all likely
+508,Not so unique,Not at all likely
+509,Not so unique,Not at all likely
+510,Not so unique,Not at all likely
+511,Not so unique,Not at all likely
+512,Not so unique,Not at all likely
+513,Not at all unique,Not at all likely
+514,Not at all unique,Not at all likely
+515,Not at all unique,Not at all likely
+516,Not at all unique,Not at all likely
+517,Not at all unique,Not at all likely
+518,Not at all unique,Not at all likely
+519,Not at all unique,Not at all likely
+520,Not at all unique,Not at all likely
+521,Not at all unique,Not at all likely
+522,Not at all unique,Not at all likely
+523,Not at all unique,Not at all likely
